@@ -1,3 +1,6 @@
+pretrained/*
+results/*
+
 legacy
 notebooks
 foobar*
